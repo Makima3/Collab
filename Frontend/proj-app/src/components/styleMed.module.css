@@ -1,0 +1,20 @@
+.Service{
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   
+ 
+}
+.Block{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    border: solid 1px black;
+
+}
+.InfoServices{
+    width: 60%;
+    height: 15%;
+
+}
